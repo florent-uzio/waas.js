@@ -1,6 +1,6 @@
 {
   "name": "@florent-uzio/waas",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "TypeScript SDK for the Palisade Wallet-as-a-Service API, generated from OpenAPI.",
   "type": "module",
   "main": "dist/index.js",
