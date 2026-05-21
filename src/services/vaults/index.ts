@@ -1,0 +1,18 @@
+export type {
+  AddVaultTagBody,
+  AddVaultTagPathParams,
+  Core_CreateVaultRequest,
+  Core_GetVaultBalancesResponse,
+  Core_ListVaultsResponse,
+  Core_Vault,
+  Core_VaultTag,
+  DeleteVaultTagPathParams,
+  DeleteVaultTagQueryParams,
+  GetVaultBalancesPathParams,
+  GetVaultBalancesQueryParams,
+  GetVaultPathParams,
+  ListVaultTagsPathParams,
+  ListVaultsQueryParams,
+  UpdateVaultBody,
+  UpdateVaultPathParams,
+} from "./vaults.types.js"
